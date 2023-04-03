@@ -1,0 +1,28 @@
+.give h1{
+  text-align: center;
+  margin-top: 10px;
+  font-size: 80px;
+}
+.containers{
+  display: flex;
+  justify-content: center;
+}
+.image{
+  display: flex;
+  margin-bottom: 30px;
+  justify-content: center;
+}
+.image img{
+  margin-left: 2px;
+  height: 70%;
+  width: 24%;
+}
+.from{
+  text-align: center;
+}
+#fname{
+  margin-bottom: 5px;
+}
+#lname{
+  padding: 20px 7px;
+}
